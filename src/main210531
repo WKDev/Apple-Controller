@@ -1,6 +1,3 @@
-// Apple Controller
-// Started to write : 210527
-
 // Sampling Rate = 1000Hz;
 // GyroFilter = 256Hz;
 // Acc 필터 : 260Hz, Gyro 필터 : 256Hz, 샘플링 8KHz;
